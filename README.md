@@ -1,22 +1,24 @@
 # Jacob Huhn
-Engineering Manager & Solutions Architect · Minneapolis/St. Paul, MN
+Hands-on engineering manager and architect · Minneapolis/St. Paul, MN
 
-I lead a full-stack team and still ship code on a React/TypeScript and PHP/Laravel stack.
-My professional work at Nexstar Network, MYLO, Centrav and Naviga is proprietary and lived on
-employer-managed accounts and repositories, so there's little public activity here.
+I build teams and the software they ship, and I still write code. I like taking messy,
+manual business processes and turning them into systems people actually use, and taking
+engineers early in their careers and helping them grow into strong full-stack developers.
 
-## What I work with
-React, React Native, TypeScript, React Query, TanStack Router, React Router, Next.js,
-Node.js/Express, PHP (Laravel), Turborepo, AWS, PostgreSQL/Supabase, Claude Code
+## How I work
+- **Lead from the code.** I set technical direction, make architecture calls from real context, and stay in the editor.
+- **Grow people.** I've built a team from zero, hiring at bootcamp level, and developed engineers to mid-level. Most have stayed 3+ years.
+- **Keep teams steady.** My team kept delivering through six changes in reporting leadership.
+- **Use AI deliberately.** I set up agentic development with Claude Code (rules, hooks and memory banks) so AI-written code stays accurate and consistent.
 
-## Recent work (private)
-- **Business tools platform (Nexstar Network):** turned 25+ years of Excel-based business tools into a React web platform used by ~1/3 of members; its budgeting tool plans $2.5B+ in annual member sales. Built on React Query with TanStack Router and React Router.
-- **Monorepo migration:** set up the platform's infrastructure, then moved it from its initial build setup to a Turborepo monorepo, which sped up builds.
-- **Startup operations platform (MYLO):** shipped a full admin panel (Next.js, Express, Supabase) covering quoting, booking, dispatch and payments, in a monorepo that includes a React Native app.
-- **Agentic AI development:** set up Claude Code rules, hooks and memory banks that the team uses across every app it ships.
+## Things I've built (private, employer-owned)
+- A React platform that replaced 25+ years of Excel business tools; its budgeting tool plans $2.5B+ in annual sales
+- A CRM rebuild and integration that eliminated a $300K/year contractor and cut response time roughly in half
+- An operations platform and admin panel for a startup, covering quoting, booking, dispatch and payments
 
-## Leadership
-I lead a four-person full-stack team at Nexstar, built from zero, and earlier managed an 11-person offshore development team at Naviga.
+## Stack
+React, React Native, TypeScript, React Query, TanStack Router, Next.js, Node.js/Express,
+PHP (Laravel), Turborepo, AWS, PostgreSQL/Supabase, Claude Code
 
+My professional code lives in employer-owned repositories, so there's little public activity here.
 Happy to walk through architecture and code decisions in an interview.
-[LinkedIn](https://www.linkedin.com/in/jacob-huhn-a8344662)
